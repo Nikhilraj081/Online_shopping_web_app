@@ -1,0 +1,48 @@
+.r_login
+{
+    width:95.5%;
+    height:450px;
+    background-image:url("loginform.jpg");
+    background-position: center;
+    background-position: no-repeat;
+    background-size: cover;
+    padding:30px;
+    
+}
+.r_login_s
+{
+    background-color:rgb(233, 223, 167);
+    width:320px;
+    height:400px;
+    padding-top:30px;
+    margin-left: 480px;
+	
+    opacity: 5;
+}
+.form_r
+{
+    padding:5px;
+    margin:10px;
+    display:grid;
+}
+.form_r input
+{
+    margin-left:15px;
+    width:255px;
+    height:30px;
+    outline:none;
+    padding:10px 10px 10px 10px;
+}
+.form_r label
+{
+    margin-left:20px;
+    font-family:Calibri, Helvetica, sans-serif;
+    font-weight: bold;
+    color:rgb(27, 26, 26)
+}
+.button_r
+{
+    margin-left:50px;
+    width:40px;
+    height:15px;
+}

@@ -1,0 +1,15 @@
+.footer
+  {
+	margin-left:350px;
+	margin-top:50px;
+	display:inline-flex;
+  }
+  .footer a
+  {
+	 
+	   color:white;
+	   text-decoration: none;
+	   margin-left:30px;
+	   font-family: sans-serif;
+
+  }
